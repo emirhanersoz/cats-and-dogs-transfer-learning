@@ -1,0 +1,1 @@
+# İndirdiğiniz *kagglecatsanddogs_5340.zip* dosyasını bu klasöre zip halinde atınız.
